@@ -1,0 +1,15 @@
+D:\Mod04\modul4_103022330068\bin\Debug\net8.0\modul4_103022330068.exe
+D:\Mod04\modul4_103022330068\bin\Debug\net8.0\modul4_103022330068.deps.json
+D:\Mod04\modul4_103022330068\bin\Debug\net8.0\modul4_103022330068.runtimeconfig.json
+D:\Mod04\modul4_103022330068\bin\Debug\net8.0\modul4_103022330068.dll
+D:\Mod04\modul4_103022330068\bin\Debug\net8.0\modul4_103022330068.pdb
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\modul4_103022330068.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\modul4_103022330068.AssemblyInfoInputs.cache
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\modul4_103022330068.AssemblyInfo.cs
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\modul4_103022330068.csproj.CoreCompileInputs.cache
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\modul4_103022330068.sourcelink.json
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\modul4_103022330068.dll
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\refint\modul4_103022330068.dll
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\modul4_103022330068.pdb
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\modul4_103022330068.genruntimeconfig.cache
+D:\Mod04\modul4_103022330068\obj\Debug\net8.0\ref\modul4_103022330068.dll
